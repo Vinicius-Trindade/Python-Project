@@ -2,7 +2,6 @@ def func1(x, y, z):
     print("example")
     return x * y * z
 print(func1(3, 4, 5))
-print("limit")
 
 b = [1, 2, 3]
 total = 0
