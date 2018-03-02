@@ -1,2 +1,2 @@
 def func3():
-    print("Hello World")
+    print("Hello za warudo!!")
